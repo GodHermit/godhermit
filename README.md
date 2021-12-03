@@ -1,5 +1,5 @@
-### Hi there 👋
-
+#### Hi! I'm GodHermit 🖖
+- 👨‍🎓 I'm currently studying applied programming at [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/en/).
 <!--
 **GodHermit/godhermit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
