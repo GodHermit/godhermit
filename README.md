@@ -3,4 +3,4 @@
 - 💻 Interested in frontend development.
 
 ### Contacts
-[🌌 My website](https://godhermit.github.io/) · [📧 Email](mailto:first.god.hermit@gmail.com) · [✒ Codepen](https://codepen.io/GodHermit)
+[🌌 My website](https://godhermit.github.io/) · [📧 Email](mailto:oleh.proidakov@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/oleh-proidakov/) · [✒ CodePen](https://codepen.io/GodHermit)
