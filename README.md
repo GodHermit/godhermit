@@ -48,8 +48,8 @@
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 
-[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://firebase.google.com/)
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://firebase.google.com/)
+[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
 </details>
 
 ## Contacts
