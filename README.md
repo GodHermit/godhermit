@@ -8,6 +8,10 @@
 
 🎓 Currently studying applied programming at [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/en/).
 
+## Contacts
+
+[:mountain_snow: My website](https://godhermit.github.io/) · [:e-mail: Email](mailto:oleh.proidakov@gmail.com) · [:briefcase: LinkedIn](https://www.linkedin.com/in/oleh-proidakov/) · [:black_nib: CodePen](https://codepen.io/GodHermit)
+
 ## Skills
 
 [![NestJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
@@ -51,7 +55,3 @@
 [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
 </details>
-
-## Contacts
-
-[:mountain_snow: My website](https://godhermit.github.io/) · [:e-mail: Email](mailto:oleh.proidakov@gmail.com) · [:briefcase: LinkedIn](https://www.linkedin.com/in/oleh-proidakov/) · [:black_nib: CodePen](https://codepen.io/GodHermit)
