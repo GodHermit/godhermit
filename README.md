@@ -4,7 +4,7 @@
 
 💡 Passionate problem solver with a relentless dedication to leveraging my analytical mindset and creative thinking to tackle challenges head-on.
 
-🔍 Excel in identifying unique perspectives, connecting disparate ideas, and driving results through strategic problem-solving.
+🔍 Excel in identifying unique perspectives, connecting disparate ideas, and driving results through strategic problem-solving. 
 
 🎓 Currently studying applied programming at [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/en/).
 
@@ -14,44 +14,44 @@
 
 ## Skills
 
-[![NestJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![npm](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
-[![yarn](https://skillicons.dev/icons?i=yarn)](https://yarnpkg.com/)
-[![pnpm](https://skillicons.dev/icons?i=pnpm)](https://pnpm.io/)
+[![NestJS](https://go-skill-icons.vercel.app/api/icons?i=nextjs)](https://nextjs.org/)
+[![React](https://go-skill-icons.vercel.app/api/icons?i=react)](https://react.dev/)
+[![NodeJS](https://go-skill-icons.vercel.app/api/icons?i=nodejs)](https://nodejs.org/en)
+[![TypeScript](https://go-skill-icons.vercel.app/api/icons?i=ts)](https://www.typescriptlang.org/)
+[![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Git](https://go-skill-icons.vercel.app/api/icons?i=git)](https://git-scm.com/)
+[![npm](https://go-skill-icons.vercel.app/api/icons?i=npm)](https://www.npmjs.com/)
+[![yarn](https://go-skill-icons.vercel.app/api/icons?i=yarn)](https://yarnpkg.com/)
+[![pnpm](https://go-skill-icons.vercel.app/api/icons?i=pnpm)](https://pnpm.io/)
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![styled-components](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/)
-[![Material UI](https://skillicons.dev/icons?i=materialui)](https://mui.com/material-ui/)
+[![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Sass](https://go-skill-icons.vercel.app/api/icons?i=sass)](https://sass-lang.com/)
+[![TailwindCSS](https://go-skill-icons.vercel.app/api/icons?i=tailwindcss)](https://tailwindcss.com/)
+[![Bootstrap](https://go-skill-icons.vercel.app/api/icons?i=bootstrap)](https://getbootstrap.com/)
+[![styled-components](https://go-skill-icons.vercel.app/api/icons?i=styledcomponents)](https://styled-components.com/)
+[![Material UI](https://go-skill-icons.vercel.app/api/icons?i=materialui)](https://mui.com/material-ui/)
 
-[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
-[![Webpack](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
-[![Babel](https://skillicons.dev/icons?i=babel)](https://babeljs.io/)
+[![Vite](https://go-skill-icons.vercel.app/api/icons?i=vite)](https://vitejs.dev/)
+[![Webpack](https://go-skill-icons.vercel.app/api/icons?i=webpack)](https://webpack.js.org/)
+[![Babel](https://go-skill-icons.vercel.app/api/icons?i=babel)](https://babeljs.io/)
 
 <details>
 <summary><h3>Other skills</h3></summary>
 
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/std/the-standard)
-[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Java](https://skillicons.dev/icons?i=java)](https://dev.java/learn/getting-started/)
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![PhP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
-[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
-[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+[![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)](https://isocpp.org/std/the-standard)
+[![C#](https://go-skill-icons.vercel.app/api/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://dev.java/learn/getting-started/)
+[![Python](https://go-skill-icons.vercel.app/api/icons?i=py)](https://www.python.org/)
+[![PhP](https://go-skill-icons.vercel.app/api/icons?i=php)](https://www.php.net/)
+[![Dart](https://go-skill-icons.vercel.app/api/icons?i=dart)](https://dart.dev/)
+[![Flutter](https://go-skill-icons.vercel.app/api/icons?i=flutter)](https://flutter.dev/)
 
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com/)
-[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+[![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql)](https://www.mysql.com/)
+[![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb)](https://mongodb.com/)
+[![Supabase](https://go-skill-icons.vercel.app/api/icons?i=supabase)](https://supabase.com/)
+[![Firebase](https://go-skill-icons.vercel.app/api/icons?i=firebase)](https://firebase.google.com/)
 
-[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+[![Raspberry Pi](https://go-skill-icons.vercel.app/api/icons?i=raspberrypi)](https://www.raspberrypi.com/)
+[![Arduino](https://go-skill-icons.vercel.app/api/icons?i=arduino)](https://www.arduino.cc/)
 </details>
