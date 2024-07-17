@@ -55,3 +55,6 @@
 [![Raspberry Pi](https://go-skill-icons.vercel.app/api/icons?i=raspberrypi)](https://www.raspberrypi.com/)
 [![Arduino](https://go-skill-icons.vercel.app/api/icons?i=arduino)](https://www.arduino.cc/)
 </details>
+
+---
+[![](https://visitcount.itsvg.in/api?id=GodHermit&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
