@@ -8,6 +8,8 @@
 
 🎓 Currently studying applied programming at [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/en/).
 
+🔧 Excited to explore microcontrollers like the Raspberry Pi Pico W, discovering their potential in IoT applications.
+
 ## Contacts
 
 [:mountain_snow: My website](https://godhermit.github.io/) · [:e-mail: Email](mailto:oleh.proidakov@gmail.com) · [:briefcase: LinkedIn](https://www.linkedin.com/in/oleh-proidakov/) · [:black_nib: CodePen](https://codepen.io/GodHermit)
