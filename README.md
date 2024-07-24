@@ -8,7 +8,7 @@
 
 🎓 Currently studying applied programming at [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/en/).
 
-🔧 Excited to explore microcontrollers like the Raspberry Pi Pico W, discovering their potential in IoT applications.
+🔧 Excited to explore microcontrollers like Raspberry Pi Pico W, discovering their potential in IoT applications.
 
 ## Contacts
 
