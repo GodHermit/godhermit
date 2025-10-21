@@ -1,6 +1,6 @@
 # Hi! I'm Oleh Proidakov :vulcan_salute:
 
-⚡ I'm a full stack developer with 2+ years of experience.
+⚡ I'm a full stack developer with 3+ years of experience.
 
 💡 Passionate problem solver with a relentless dedication to leveraging my analytical mindset and creative thinking to tackle challenges head-on.
 
