@@ -1,12 +1,12 @@
 # Hi! I'm Oleh Proidakov :vulcan_salute:
 
-⚡ I'm a frontend developer with 2+ years of experience.
+⚡ I'm a full stack developer with 2+ years of experience.
 
 💡 Passionate problem solver with a relentless dedication to leveraging my analytical mindset and creative thinking to tackle challenges head-on.
 
 🔍 Excel in identifying unique perspectives, connecting disparate ideas, and driving results through strategic problem-solving. 
 
-🎓 Currently studying applied programming at [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/en/).
+🎓 Graduated with a Bachelor’s degree in Computer Science from [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/en/).
 
 🔧 Excited to explore microcontrollers like Raspberry Pi Pico W, discovering their potential in IoT applications.
 
